@@ -1,0 +1,6 @@
+255/0/0 = dust
+0/255/0 = desert rock
+0/0/255 = desert rock 2
+255/255/0 = sand
+0/255/255 = mud
+255/0/255 = soil

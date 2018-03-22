@@ -1,0 +1,16 @@
+R, G, B, Climate, Land type
+
+230, 230, 120, "Desert", "Beach sand",
+
+220, 210, 102, "Desert", "Desert sand",
+220, 210, 100, "Desert", "Desert sand (2)",
+230, 220, 130, "Desert", "Desert sand (3)",
+
+236, 230, 149, "Desert", "Deep desert",
+
+228, 215, 137, "Desert", "Desert rocks",
+228, 215, 135, "Desert", "Desert rocks (2)",
+226, 207, 129, "Desert", "Desert rocks (3)",
+
+196, 177, 123, "Desert", "Cliffs",
+196, 177, 121, "Desert", "Desert cliffs",

@@ -1,0 +1,11 @@
+R, G, B, Climate, Land type
+
+255, 255, 255, "Arctic", "snow",
+
+180, 180, 180, "Arctic", "cliffs",
+170, 170, 170, "Arctic", "cliffs (2)",
+160, 160, 160, "Arctic", "cliffs (3)",
+
+175, 160, 130, "Arctic", "pebbles",
+
+80, 80, 80, "Arctic", "rock (u/w)",

@@ -1,0 +1,15 @@
+R, G, B, Climate, Land type
+
+230, 230, 120, "Temperate (basic)", "Sand",
+175, 160, 131, "Temperate (basic)", "Pebbles",
+
+160, 200, 90, "Temperate (basic)", "Coastal grass",
+150, 200, 80, "Temperate (basic)", "Coastal grass (2)",
+
+140, 195, 80, "Temperate (basic)", "Grass",
+140, 185, 70, "Temperate (basic)", "Steep grass",
+
+120, 120, 120, "Temperate (basic)", "Cliff face",
+80, 80, 80, "Temperate (basic)", "Steep cliffs",
+
+255, 255, 255, "Temperate (basic)", "Snow",
