@@ -53,6 +53,10 @@ class CfgWorlds
   ilsTaxiIn[] = {};
   ilsTaxiOff[] = {};
   drawTaxiway = 0;
+
+  terrainBlendMaxDarkenCoef = "1.0f";   
+  terrainBlendMaxBrightenCoef = "1.0f";
+
  class SecondaryAirports {};
 class Sea
   {

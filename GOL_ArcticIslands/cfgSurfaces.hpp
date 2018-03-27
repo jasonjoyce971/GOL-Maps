@@ -11,8 +11,9 @@ class CfgSurfaces
 		 //character = "GOL_ArcticIslands_Snow_Character";
 		 character = "Empty";
 		 soundHit = "soft_ground";
-		 lucidity = 1;
-		 grassCover = 0.01;
+		 //lucidity = 1;
+		 lucidity = 3;
+		 grassCover = 0.05;
 	};
 	class GOL_ArcticIslands_Cliffs_Surface : Default
 	{	

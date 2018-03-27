@@ -78,12 +78,12 @@ class Stage2
 };
 class Stage3
 {
-	texture="GOL_ArcticIslands\data\Snow_Twigs_nopx.paa";
+	texture="GOL_ArcticIslands\data\Snowtwigs_nopx.paa";
 	texGen=1;
 };
 class Stage4
 {
-	texture="GOL_ArcticIslands\data\Snow_Twigs_co.paa";
+	texture="GOL_ArcticIslands\data\Snowtwigs_co.paa";
 	texGen=2;
 };
 class Stage5
