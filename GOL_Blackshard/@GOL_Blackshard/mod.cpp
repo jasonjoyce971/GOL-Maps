@@ -1,0 +1,12 @@
+name = "-{GOL}- Blackshard";
+picture = "\ARMA3_CUP_Enhancement_Systems\presentation\picture.paa";
+actionName = "Website";
+action = "http://www.gol-clan.co.uk/";
+description = "Blackshard Version 0.1";
+logo = "\ARMA3_CUP_Enhancement_Systems\presentation\picture.paa";
+logoOver = "\ARMA3_CUP_Enhancement_Systems\presentation\picture.paa";
+tooltip = "Blackshard";
+tooltipOwned = "Blackshard Owned";
+overview = "Blackshard Terrain Prototype";
+author = "-{GOL}-Jason";
+overviewPicture = "\ARMA3_CUP_Enhancement_Systems\presentation\picture.paa";
