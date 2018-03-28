@@ -1,0 +1,12 @@
+name = "-{GOL}- Massive";
+picture = "\ARMA3_CUP_Enhancement_Systems\presentation\picture.paa";
+actionName = "Website";
+action = "http://www.gol-clan.co.uk/";
+description = "Massive Version 0.1";
+logo = "\ARMA3_CUP_Enhancement_Systems\presentation\picture.paa";
+logoOver = "\ARMA3_CUP_Enhancement_Systems\presentation\picture.paa";
+tooltip = "Massive";
+tooltipOwned = "Massive Owned";
+overview = "Massive Terrain Prototype";
+author = "-{GOL}-Jason";
+overviewPicture = "\ARMA3_CUP_Enhancement_Systems\presentation\picture.paa";
